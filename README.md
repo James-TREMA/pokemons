@@ -2,7 +2,7 @@
 
 ## 📖 À propos du projet
 
-Ce projet a été réalisé dans le cadre d'un exercice scolaire visant à créer une application mobile de Pokédex avec Flutter. L'objectif était de mettre en pratique les concepts de développement mobile tout en créant une application fonctionnelle et agréable à utiliser.
+Ce projet a été réalisé dans le cadre d'un exercice en formation visant à créer une application mobile de Pokédex avec Flutter. L'objectif était de mettre en pratique les concepts de développement mobile tout en créant une application fonctionnelle et agréable à utiliser.
 
 ## ✨ Fonctionnalités
 
@@ -30,7 +30,7 @@ Ce projet a été réalisé dans le cadre d'un exercice scolaire visant à crée
 
 1. Clonez le repository
 ```bash
-git clone https://github.com/votre-username/pokedex-flutter.git
+git clone https://github.com/James-TREMA/pokemons.git
 ```
 
 2. Installez les dépendances
@@ -65,9 +65,11 @@ Ce projet est open source et les contributions sont les bienvenues ! Si vous sou
 - Ajout de sons et d'effets sonores
 - Intégration de statistiques plus détaillées
 
-## 📸 Captures d'écran
+## 📸 Vidéo de présentation
 
-[À venir]
+[Cliquez-ici](https://streamable.com/gu7kik)
+
+---
 
 ## 📄 Licence
 
@@ -81,7 +83,4 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 
 ## 📧 Contact
 
-Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue ou à me contacter directement.
-
----
-⭐️ Si ce projet vous a été utile, n'hésitez pas à lui donner une étoile sur GitHub !
+Pour toute question ou suggestion, n'hésitez pas à ouvrir une [issue](https://github.com/James-TREMA/pokemons/issues) ou à me contacter directement.
