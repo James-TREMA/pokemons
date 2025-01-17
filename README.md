@@ -2,7 +2,7 @@
 
 ## 📖 À propos du projet
 
-Ce projet a été réalisé dans le cadre d'un exercice en formation visant à créer une application mobile de Pokédex avec Flutter. L'objectif était de mettre en pratique les concepts de développement mobile tout en créant une application fonctionnelle et agréable à utiliser.
+Ce petit projet a été réalisé dans le cadre d'un exercice dans ma formation visant à créer une application mobile de Pokédex avec Flutter. L'objectif était de mettre en pratique les concepts de développement mobile tout en créant une application fonctionnelle et agréable à utiliser.
 
 ## ✨ Fonctionnalités
 
@@ -63,7 +63,7 @@ Ce projet est open source et les contributions sont les bienvenues ! Si vous sou
 - Support du mode sombre
 - Traduction en plusieurs langues
 - Ajout de sons et d'effets sonores
-- Intégration de statistiques plus détaillées
+- Intégration de statistiques plus détaillées, pour la page home
 
 ### 🎥 Démonstration
 
