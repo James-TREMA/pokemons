@@ -65,9 +65,11 @@ Ce projet est open source et les contributions sont les bienvenues ! Si vous sou
 - Ajout de sons et d'effets sonores
 - Intégration de statistiques plus détaillées
 
-## 📸 Vidéo de présentation
+### 🎥 Démonstration
 
-[Cliquez-ici](https://streamable.com/gu7kik)
+[![Démonstration de l'application](https://i.imageupload.app/623195306e86a36dd418.png)](https://streamable.com/gu7kik)
+
+*Cliquez sur l'image pour voir la démonstration vidéo*
 
 ---
 
